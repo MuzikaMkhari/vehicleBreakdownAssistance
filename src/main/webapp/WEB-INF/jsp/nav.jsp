@@ -26,6 +26,8 @@
 <%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>
 
 
+
+
 <nav class="w3-bar w3-black">
 <span class="branding w3-bar-item w3-mobile">Vehicle Breakdown Assistance</span>
 <span class="w3-right w3-mobile">
